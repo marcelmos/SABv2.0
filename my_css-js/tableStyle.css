@@ -1,0 +1,29 @@
+table{
+    border-radius: 15px;
+    width: auto;
+    height: auto;
+    background: #fff;
+}
+
+th, td{
+    text-align: center;
+    color: #3D3D3D;
+    white-space: nowrap;
+}
+
+tr:last-of-type>td{
+    border-bottom-right-radius: 15px;
+}
+
+#filter{
+    background:#FF9100;
+    color: #fff;
+    font-size: large;
+    border-top-right-radius: 15px;
+}
+
+td.edit{
+    background: #6EB0FC;
+    color: #fff;
+    font-size: large;
+}

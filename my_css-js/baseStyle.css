@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana;
+}
+
+body{
+    background-color: #E6E6E6;
+}
+
+.banner{
+    width: 100%;
+    height: auto;
+    background-color: #CFCFCF;
+    color: #505050;
+    text-align: center;
+    padding: 20px 0 20px;
+}
+
+.table-container{
+    margin-top: 2.5rem;
+}
